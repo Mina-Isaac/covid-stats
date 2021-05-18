@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reducer data flow should match a snapshot 1`] = `
+Object {
+  "caseData": undefined,
+  "caseDataStatus": "idle",
+  "error": undefined,
+  "incidenceData": undefined,
+  "incidenceDataStatus": "idle",
+}
+`;

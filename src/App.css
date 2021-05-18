@@ -1,0 +1,12 @@
+.MuiCircularProgress-root {
+  color: white;
+  margin: auto;
+}
+
+.MuiFilledInput-root {
+  background-color: white !important;
+}
+
+.MuiButton-root:hover {
+  background-color: #00000066 !important;
+}
